@@ -10,3 +10,5 @@ o	After cleaning, the refined dataset was imported into MySQL for in-depth analy
 o	The final step involved using Power BI to visualize the analyzed data. I leveraged DAX (Data Analysis Expressions) functions to create interactive dashboards that displayed key performance indicators (KPIs) and trends. These visualizations provided an intuitive way to communicate findings and support strategic decision-making.
 ## Outcome: 
 The Blinkit Sales Report project successfully transformed raw sales data into valuable insights, enabling stakeholders to understand performance metrics and make informed decisions. The integration of Excel, MySQL, and Power BI showcased a seamless workflow from data cleaning to visualization, highlighting the importance of each step in the data analysis process.
+## Dashboard
+![Screenshot 2024-10-17 193939](https://github.com/user-attachments/assets/373e66e2-a297-4431-97a3-0133a46962d7)
